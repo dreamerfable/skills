@@ -27,7 +27,11 @@ skills/
 
 ## Skill 清单
 
-暂未收录 Skill。添加第一个 Skill 时，在这里补充名称、用途和对应目录链接。
+| Skill | 用途 | 入口 |
+| --- | --- | --- |
+| `learning-mentor`（AI 学习导师） | 从知识地图出发，分阶段讲解、检验理解、实践应用并安排复习，以独立掌握为目标。 | [SKILL.md](skills/learning-mentor/SKILL.md) |
+
+示例：使用 `learning-mentor`，带我从零学习概率论，目标是能够独立判断 A/B 测试结果。该 Skill 不需要脚本或额外依赖。
 
 ## 使用方式
 
